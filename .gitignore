@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+config.json
+*.pem
+*.key
+output/
+outputs/
+.venv/
+prompt.txt

@@ -1,0 +1,6 @@
+interface:
+  display_name: "兼容 OpenAI 图像生成"
+  short_description: "调用兼容接口生成图片，或使用单图、多图完成图生图编辑"
+  default_prompt: "使用 $openai-image-api 根据我的要求生成或编辑图片。"
+policy:
+  allow_implicit_invocation: true
